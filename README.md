@@ -26,7 +26,6 @@ N/A
 
 Here is a screenshot of the final webpage:
 
-md
 ![Final Webpage screenshot](assets/images/screenshot.png)
 
 ## Credits
