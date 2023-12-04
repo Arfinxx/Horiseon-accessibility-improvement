@@ -12,6 +12,9 @@ This project's main aim was to increase the accessibility of a webpage for The H
 
 Also, the style.css file was reworked to consolidate redundant CSS selectors and properties and comments were added to help organise and give context to each selector.
 
+The final product can be viewed using the deployed link below:
+
+https://arfinxx.github.io/Horiseon-accessibility-improvement
 
 
 
@@ -21,10 +24,10 @@ N/A
 
 ## Usage 
 
-The final product can be viewed using the deployed link below:
+Here is a screenshot of the final webpage:
 
-https://arfinxx.github.io/Horiseon-accessibility-improvement
-
+md
+![Final Webpage screenshot](assets/images/screenshot.png)
 
 ## Credits
 
